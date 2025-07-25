@@ -1,0 +1,3 @@
+pandas
+sqlachemy
+psycopg2
